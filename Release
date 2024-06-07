@@ -6,15 +6,3 @@ Codename: 天天话事人
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: "天天社区所有的deb文件"
-MD5Sum:
- 91925ba0d0333d9596aa898b72693d49 (Packages.gz)
- Packages.gz
- Packages.gz
-SHA1:
- 91925ba0d0333d9596aa898b72693d49 (Packages.gz)
- Packages.gz
- Packages.gz
-SHA256:
- 91925ba0d0333d9596aa898b72693d49 (Packages.gz)
- Packages.gz
- Packages.gz
