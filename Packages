@@ -42,7 +42,7 @@ Depends: firmware (>= 9.0), mobilesubstrate (>=0.9.5000)
 Replaces: com.1func.xxtouch.bigboss, com.1func.xxtouch, com.1func.xxtouch.ios, com.xxtouch.ios, ch.xxtou.ios
 Filename: debs/com.1func.xxtouch.bigboss_1.3.8-20240607154546_iphoneos-arm.deb
 Size: 10087056
-Section: Development
+Section: XXT助手
 Homepage: https://docs.xxtou.ch
 Description: ARM架构手机
 Author: XXTouch Team <tech@xxtou.ch>
@@ -61,7 +61,7 @@ Depends: firmware (>= 9.0), mobilesubstrate (>=0.9.5000)
 Replaces: com.1func.xxtouch.bigboss, com.1func.xxtouch, com.1func.xxtouch.ios, com.xxtouch.ios, ch.xxtou.ios
 Filename: debs/com.1func.xxtouch.bigboss_1.3.8-20240607154546_iphoneos-arm.deb
 Size: 10087056
-Section: Development
+Section: XXT助手
 Homepage: https://docs.xxtou.ch
 Description: ARM64架构手机
 Author: XXTouch Team <tech@xxtou.ch>
@@ -80,7 +80,7 @@ Depends: firmware (>= 9.0), mobilesubstrate (>=0.9.5000)
 Replaces: com.1func.xxtouch.bigboss, com.1func.xxtouch, com.1func.xxtouch.ios, com.xxtouch.ios, ch.xxtou.ios
 Filename: debs/com.1func.xxtouch.bigboss_1.3.8-20240607154546_iphoneos-arm64e.deb
 Size: 10089668
-Section: Development
+Section: XXT助手
 Homepage: https://docs.xxtou.ch
 Description: ARM64架构手机 roothide越狱
 Author: XXTouch Team <tech@xxtou.ch>
