@@ -1,3 +1,21 @@
+Package: com.1func.xxtouch.bigboss
+Version: 1.3.8-20240607154546
+Architecture: iphoneos-arm64
+Maintainer: XXTouch Team <tech@xxtou.ch>
+Installed-Size: 40256
+Depends: firmware (>= 9.0), mobilesubstrate (>=0.9.5000)
+Replaces: com.1func.xxtouch.bigboss, com.1func.xxtouch, com.1func.xxtouch.ios, com.xxtouch.ios, ch.xxtou.ios
+Filename: debs/com.1func.xxtouch.bigboss_1.3.8-20240607154546_iphoneos-arm64.deb
+Size: 10083526
+Section: XXT助手
+Homepage: https://docs.xxtou.ch
+Description: ARM64架构手机
+Author: XXTouch Team <tech@xxtou.ch>
+Depiction: https://docs.xxtou.ch
+Icon: file:///var/mobile/Media/1ferver/web/xxtouch.png
+Name: XXTouch
+Sponsor: XXTouch Team <https://docs.xxtou.ch>
+
 Package: kr.xsf1re.vnodebypass
 Version: 0.4.2
 Architecture: iphoneos-arm64
@@ -43,33 +61,12 @@ Replaces: com.1func.xxtouch.bigboss, com.1func.xxtouch, com.1func.xxtouch.ios, c
 Filename: debs/com.1func.xxtouch.bigboss_1.3.8-20240607154546_iphoneos-arm.deb
 Size: 10087056
 Section: XXT助手
-Homepage: https://docs.xxtou.ch
 Description: ARM架构手机
 Author: XXTouch Team <tech@xxtou.ch>
 Depiction: https://docs.xxtou.ch
 Icon: file:///var/mobile/Media/1ferver/web/xxtouch.png
 Name: XXTouch
 Sponsor: XXTouch Team <https://docs.xxtou.ch>
-
-
-Package: com.1func.xxtouch.bigboss
-Version: 1.3.8-20240607154546
-Architecture: iphoneos-arm
-Maintainer: XXTouch Team <tech@xxtou.ch>
-Installed-Size: 40256
-Depends: firmware (>= 9.0), mobilesubstrate (>=0.9.5000)
-Replaces: com.1func.xxtouch.bigboss, com.1func.xxtouch, com.1func.xxtouch.ios, com.xxtouch.ios, ch.xxtou.ios
-Filename: debs/com.1func.xxtouch.bigboss_1.3.8-20240607154546_iphoneos-arm.deb
-Size: 10087056
-Section: XXT助手
-Homepage: https://docs.xxtou.ch
-Description: ARM64架构手机
-Author: XXTouch Team <tech@xxtou.ch>
-Depiction: https://docs.xxtou.ch
-Icon: file:///var/mobile/Media/1ferver/web/xxtouch.png
-Name: XXTouch
-Sponsor: XXTouch Team <https://docs.xxtou.ch>
-
 
 Package: com.1func.xxtouch.bigboss
 Version: 1.3.8-20240607154546
@@ -81,7 +78,6 @@ Replaces: com.1func.xxtouch.bigboss, com.1func.xxtouch, com.1func.xxtouch.ios, c
 Filename: debs/com.1func.xxtouch.bigboss_1.3.8-20240607154546_iphoneos-arm64e.deb
 Size: 10089668
 Section: XXT助手
-Homepage: https://docs.xxtou.ch
 Description: ARM64架构手机 roothide越狱
 Author: XXTouch Team <tech@xxtou.ch>
 Depiction: https://docs.xxtou.ch
